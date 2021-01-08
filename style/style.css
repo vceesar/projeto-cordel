@@ -46,7 +46,7 @@ header a:hover, footer a:hover{
     color: brown;
 }
 section{
-    font-size: 1vw;
+    font-size: 3vw;
     font-family: var(--font03);
     text-align: justify;
     line-height: 2em; 

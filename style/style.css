@@ -24,12 +24,13 @@ header{
     color: white;
     background-color: black;
     text-align: center;
+   
     
 }
 header h1{
     font-family: var(--font02);
     padding-top: 50px;
-    font-size: 8vw;
+    font-size: 5.5vw;
     font-variant: small-caps;
 
 }
